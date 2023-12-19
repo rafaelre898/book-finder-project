@@ -1,0 +1,3 @@
+/book-api/node_modules
+/book-app/node_modules
+.DS_Store
